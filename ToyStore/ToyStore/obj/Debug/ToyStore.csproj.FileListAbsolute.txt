@@ -1,0 +1,295 @@
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\ToyStore.dll.config
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\ToyStore.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\ToyStore.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\ECommerceHelper.Common.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.CompilerServices.AsyncTargetingPack.Net45.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.Owin.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Owin.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\PayPal.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Data.SqlClient.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\TableDependency.SqlClient.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\ClosedXML.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\ClosedXML.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\DocumentFormat.OpenXml.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\EntityFramework.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\EPPlus.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\ExcelNumberFormat.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.Owin.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\PagedList.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\PagedList.Mvc.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\PayPal.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Web.Helpers.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Web.Mvc.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Web.Optimization.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Web.Razor.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Web.WebPages.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Newtonsoft.Json.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Unity.Abstractions.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Unity.Container.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Antlr3.Runtime.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\obj\Debug\ToyStore.csprojAssemblyReference.cache
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\obj\Debug\ToyStore.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\obj\Debug\ToyStore.csproj.CopyComplete
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\obj\Debug\ToyStore.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\obj\Debug\ToyStore.pdb
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\csc.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\csc.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\csc.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\csi.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\csi.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\csi.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.AppContext.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Console.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\vbc.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\vbc.exe.config
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\vbc.rsp
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khuong Nguyen\Desktop\Projects\ToyStore2021\ToyStore\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ án\ToyStore\ToyStore\bin\ToyStore.dll.config
+D:\ĐỒ án\ToyStore\ToyStore\bin\ToyStore.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\ToyStore.pdb
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\csc.exe
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\csc.exe.config
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\csc.rsp
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\csi.exe
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\csi.exe.config
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\csi.rsp
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.AppContext.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Console.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.IO.Compression.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Net.Sockets.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.ValueTuple.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Xml.XPath.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\vbc.exe
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\vbc.exe.config
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\vbc.rsp
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\VBCSCompiler.exe
+D:\ĐỒ án\ToyStore\ToyStore\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐỒ án\ToyStore\ToyStore\bin\ECommerceHelper.Common.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.CompilerServices.AsyncTargetingPack.Net45.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.Owin.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.Owin.Security.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\Owin.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\PayPal.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Data.SqlClient.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\TableDependency.SqlClient.dll
+D:\ĐỒ án\ToyStore\ToyStore\bin\ClosedXML.pdb
+D:\ĐỒ án\ToyStore\ToyStore\bin\ClosedXML.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\DocumentFormat.OpenXml.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\EntityFramework.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\EntityFramework.SqlServer.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\EPPlus.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\ExcelNumberFormat.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.Owin.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Microsoft.Owin.Security.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\PagedList.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\PagedList.Mvc.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\PayPal.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Web.Helpers.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Web.Mvc.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Web.Optimization.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Web.Razor.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Web.WebPages.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Web.WebPages.Deployment.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\System.Web.WebPages.Razor.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Newtonsoft.Json.xml
+D:\ĐỒ án\ToyStore\ToyStore\bin\Unity.Abstractions.pdb
+D:\ĐỒ án\ToyStore\ToyStore\bin\Unity.Container.pdb
+D:\ĐỒ án\ToyStore\ToyStore\bin\Antlr3.Runtime.pdb
+D:\ĐỒ án\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.AssemblyReference.cache
+D:\ĐỒ án\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.CoreCompileInputs.cache
+D:\ĐỒ án\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.CopyComplete
+D:\ĐỒ án\ToyStore\ToyStore\obj\Debug\ToyStore.dll
+D:\ĐỒ án\ToyStore\ToyStore\obj\Debug\ToyStore.pdb
+D:\DACN\ToyStore\ToyStore\bin\ToyStore.dll.config
+D:\DACN\ToyStore\ToyStore\bin\ToyStore.dll
+D:\DACN\ToyStore\ToyStore\bin\ToyStore.pdb
+D:\DACN\ToyStore\ToyStore\bin\roslyn\csc.exe
+D:\DACN\ToyStore\ToyStore\bin\roslyn\csc.exe.config
+D:\DACN\ToyStore\ToyStore\bin\roslyn\csc.rsp
+D:\DACN\ToyStore\ToyStore\bin\roslyn\csi.exe
+D:\DACN\ToyStore\ToyStore\bin\roslyn\csi.exe.config
+D:\DACN\ToyStore\ToyStore\bin\roslyn\csi.rsp
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DACN\ToyStore\ToyStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.AppContext.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Collections.Immutable.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Console.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.IO.Compression.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.IO.FileSystem.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Net.Sockets.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.ValueTuple.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Xml.XPath.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DACN\ToyStore\ToyStore\bin\roslyn\vbc.exe
+D:\DACN\ToyStore\ToyStore\bin\roslyn\vbc.exe.config
+D:\DACN\ToyStore\ToyStore\bin\roslyn\vbc.rsp
+D:\DACN\ToyStore\ToyStore\bin\roslyn\VBCSCompiler.exe
+D:\DACN\ToyStore\ToyStore\bin\roslyn\VBCSCompiler.exe.config
+D:\DACN\ToyStore\ToyStore\bin\ECommerceHelper.Common.dll
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.CompilerServices.AsyncTargetingPack.Net45.dll
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.Owin.dll
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.Owin.Security.dll
+D:\DACN\ToyStore\ToyStore\bin\Owin.dll
+D:\DACN\ToyStore\ToyStore\bin\PayPal.dll
+D:\DACN\ToyStore\ToyStore\bin\System.Data.SqlClient.dll
+D:\DACN\ToyStore\ToyStore\bin\TableDependency.SqlClient.dll
+D:\DACN\ToyStore\ToyStore\bin\ClosedXML.pdb
+D:\DACN\ToyStore\ToyStore\bin\ClosedXML.xml
+D:\DACN\ToyStore\ToyStore\bin\DocumentFormat.OpenXml.xml
+D:\DACN\ToyStore\ToyStore\bin\EntityFramework.xml
+D:\DACN\ToyStore\ToyStore\bin\EntityFramework.SqlServer.xml
+D:\DACN\ToyStore\ToyStore\bin\EPPlus.xml
+D:\DACN\ToyStore\ToyStore\bin\ExcelNumberFormat.xml
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.Owin.xml
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DACN\ToyStore\ToyStore\bin\Microsoft.Owin.Security.xml
+D:\DACN\ToyStore\ToyStore\bin\PagedList.xml
+D:\DACN\ToyStore\ToyStore\bin\PagedList.Mvc.xml
+D:\DACN\ToyStore\ToyStore\bin\PayPal.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Web.Helpers.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Web.Mvc.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Web.Optimization.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Web.Razor.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Web.WebPages.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Web.WebPages.Deployment.xml
+D:\DACN\ToyStore\ToyStore\bin\System.Web.WebPages.Razor.xml
+D:\DACN\ToyStore\ToyStore\bin\Newtonsoft.Json.xml
+D:\DACN\ToyStore\ToyStore\bin\Unity.Abstractions.pdb
+D:\DACN\ToyStore\ToyStore\bin\Unity.Container.pdb
+D:\DACN\ToyStore\ToyStore\bin\Antlr3.Runtime.pdb
+D:\DACN\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.AssemblyReference.cache
+D:\DACN\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.CoreCompileInputs.cache
+D:\DACN\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.CopyComplete
+D:\DACN\ToyStore\ToyStore\obj\Debug\ToyStore.dll
+D:\DACN\ToyStore\ToyStore\obj\Debug\ToyStore.pdb
+D:\tailieu\Đồ Án\Đồ Án Cơ Sở\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.AssemblyReference.cache
+D:\tailieu\Đồ Án\Đồ Án Cơ Sở\ToyStore\ToyStore\obj\Debug\ToyStore.csproj.CoreCompileInputs.cache
+D:\tailieu\Đồ Án\Đồ Án Cơ Sở\ToyStore\ToyStore\obj\Debug\ToyStore.dll
+D:\tailieu\Đồ Án\Đồ Án Cơ Sở\ToyStore\ToyStore\obj\Debug\ToyStore.pdb
